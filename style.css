@@ -1,0 +1,59 @@
+body {
+    font-family: 'Sansita Swashed', cursive;
+}
+
+h1 {
+    font-size: 40px;
+    padding-bottom: 3px;
+}
+
+.heading {
+    color: rgb(40, 40, 243);
+    margin-bottom: 45px;
+}
+
+.highlight {
+    color: coral;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 5px;
+}
+
+.half-width img {
+    width: 100%;
+    margin-top: 5px;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: 900;
+    background-image: linear-gradient( lightsalmon, tomato);
+    padding: 10px 20px;
+}
+
+.one-third {
+    width: 30%;
+    float: left;
+}
+
+.one-third img {
+    width: 100%;
+    padding: 5px;
+}
+
+section {
+    height: 500px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+#special {
+    padding: 10px;
+    margin-top: 10px;
+}
